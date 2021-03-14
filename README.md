@@ -1,3 +1,3 @@
-##Hallo, kenalkan saya Fahmi
+## Hallo, kenalkan saya Fahmi
 
-###Saya seorang developer, mahasiswa, dan freelancer
+### Saya seorang developer, mahasiswa, dan freelancer
