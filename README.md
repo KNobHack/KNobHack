@@ -14,5 +14,5 @@
 
 <!-- Variabel -->
 
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+[twitter]: https://twitter.com/knobhack
+[linkedin]: https://www.linkedin.com/in/fany-muhammad-fahmi-kamilah-22929a1b0/
